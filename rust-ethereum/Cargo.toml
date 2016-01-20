@@ -1,0 +1,4 @@
+[package]
+name = "ethereum"
+version = "0.1.0"
+authors = ["RJ Catalano <rcatalano@macsales.com>"]
