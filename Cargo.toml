@@ -3,7 +3,6 @@ name = "ethereum"
 version = "0.1.0"
 authors = ["RJ Catalano <catalanor0220@gmail.com>", "Anthony Eufimio <Anthony's email here>"]
 [dependencies]
-jsonrpc = "0.7.0"
 hyper = "0.7.2"
 tiny-keccak = "1.0.5"
 bitcoin = "0.5.2"
